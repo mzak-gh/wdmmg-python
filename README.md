@@ -7,13 +7,13 @@ The official Python library for WDMMG API
 Install using uv:
 
 ```bash
-uv pip install wdmmg
+uv pip install .
 ```
 
 Or using pip:
 
 ```bash
-pip install wdmmg
+pip install .
 ```
 
 ## Usage
